@@ -17,13 +17,13 @@ from PIL import Image
 
 
 st.write('''
-# STOCK VISUALIZER
+# STOCK PREDICTOR
 
-**TOPLEARN.COM**
+**By Farshad Tavallaie**
 
 ''')
 
-img = Image.open("C:/Users/Farshad/Desktop/MyCode/Python/myBourse/trading.jpg")
+img = Image.open("C:/python/BUGomv.jpg")
 st.image(img, width=600)
 
 
