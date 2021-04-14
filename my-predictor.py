@@ -23,7 +23,7 @@ st.write('''
 
 ''')
 
-img = Image.open("C:/python/BUGomv.jpg")
+img = Image.open("BUGomv.jpg")
 st.image(img, width=600)
 
 
